@@ -9,8 +9,8 @@ The rest of the code includes helper functions required for the AVL tree, such a
 The last part of the code contains a loop that runs the menu defined in the main() function and performs the selected operations.
 
 In summary, this project performs operations of adding elements, deleting elements, and sorting the AVL tree for the given elements.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Proje, AVL ağacında eleman ekleme, eleman silme ve ağacı preorder olarak ekrana yazdırma işlemlerini gerçekleştirmek için kullanılmaktadır.
 
 Ana fonksiyon main(), kullanıcıya bir menü sunar ve kullanıcının istediği işlemi seçmesine olanak sağlar. Menüde kullanıcı, eleman eklemek, eleman silmek ve ağacı preorder olarak ekrana yazdırmak gibi işlemleri seçebilir. Bu işlemler için uygun fonksiyonlar kullanılır.
