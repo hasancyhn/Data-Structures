@@ -1,5 +1,5 @@
 # Data-Structures
 
-The data structures file includes "Queue, various linked list types, sorting algorithms, stack data structure, AVL Tree, Infix-Postfix conversion, and preorder-inorder-postorder structures.
+Data structures and algorithms file, "Queue, various types of linked lists, sorting algorithms, stack data structure, AVL Tree, Infix-Postfix conversion, preorder-inorder-postorder, 2-3 Tree, Dijkstra-Bellman Ford, Huffman Tree, Kruskal Algorithm and LZW Algorithm structures.
 
-Within the sorting algorithms: selection sort, insertion sort, bubble sort, quick sort, and merge sort algorithms are present.
+Sorting algorithms include: selective sort, additive sort, bubble sort, quicksort and merge sort.
